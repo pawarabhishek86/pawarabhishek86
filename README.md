@@ -4,8 +4,6 @@
 
 🚀 I enjoy solving real-world problems, learning new technologies, and developing scalable applications.
 
-🌱 Currently exploring Cloud Computing, DevOps, Kubernetes, and AI-powered applications.
-
 🎯 Goal: To build impactful software and continuously grow as a developer.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abhi pawar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ismart-abh18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishek Pawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawarabhishek8668@gmail.com) 
