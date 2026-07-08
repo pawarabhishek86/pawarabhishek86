@@ -12,7 +12,7 @@
 - REST APIs
 - Git & GitHub
 
-  🚀 What I'm focusing on:
+🚀 What I'm focusing on:
 - Building enterprise-level applications
 - Solving Data Structures & Algorithms problems
 - Creating real-world Full Stack projects
